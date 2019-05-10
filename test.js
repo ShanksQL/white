@@ -1,3 +1,0 @@
-// shanks test
-
-// nice job
