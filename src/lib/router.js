@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 // 使用vue-router
-Vue.use(VueRouter)
+Vue.use(VueRouter);
 
 import index from '../components/index.vue'
 //路由 不同的路由对应不同的组件
